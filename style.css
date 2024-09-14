@@ -12,8 +12,13 @@
 /* navbar */
 
 
-/* Carrusel  */
-img{
-    width: 800px;
-    height: 800px;
+/* Carrusel  */ 
+div{
+    align-items: center;
+}
+
+/* Tarjetas */
+
+section{
+    display: inline;
 }
