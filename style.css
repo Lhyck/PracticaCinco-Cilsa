@@ -17,8 +17,31 @@ div{
     align-items: center;
 }
 
+
 /* Tarjetas */
 
+.card {
+    margin-bottom: 30px; 
+} 
+
+.card-img-top {
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover; 
+    margin: auto; 
+    border-radius: 50%; 
+}
+
 section{
+   
     display: inline;
+}
+
+.card-img-circle {
+    border-radius: 50%; 
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover; 
+    display: block; 
+    margin: auto; 
 }
